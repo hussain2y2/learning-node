@@ -1,0 +1,23 @@
+{
+  "name": "learning-node",
+  "version": "0.0.1",
+  "description": "Learning NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hussain2y2/learning-node.git"
+  },
+  "author": "Hussain Ahmad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hussain2y2/learning-node/issues"
+  },
+  "homepage": "https://github.com/hussain2y2/learning-node#readme",
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "normalize.css": "^7.0.0"
+  }
+}
